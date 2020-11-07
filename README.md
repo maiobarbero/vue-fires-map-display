@@ -1,5 +1,8 @@
 # vue-nasa-firemap
 
+Every marker is a fire happender between 2020-08-21 and 28. Hovering any marker you can see coordinates and date.
+You can also select fires by date.
+
 ## Project setup
 ```
 npm install
